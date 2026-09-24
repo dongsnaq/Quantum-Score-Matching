@@ -1,0 +1,12 @@
+{
+  "python": "3.9",
+  "packages": {
+    "numpy": "1.26.4",
+    "scipy": "1.10.0",
+    "qiskit": "2.2.3",
+    "qiskit-aer": "0.17.2",
+    "qiskit-ibm-runtime": "0.43.1",
+    "matplotlib": "3.7.0",
+    "pillow": "9.4.0"
+  }
+}

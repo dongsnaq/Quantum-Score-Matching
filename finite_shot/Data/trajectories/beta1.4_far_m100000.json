@@ -1,0 +1,18 @@
+{
+  "beta": 1.4,
+  "shots_per_iteration": 100000,
+  "initialization": "fixed_far",
+  "initial_radius": 0.05,
+  "learning_rate": 16.0,
+  "learning_rate_schedule": "two_stage_inverse",
+  "decay_time": 10.0,
+  "burn_in_iterations": 60,
+  "local_learning_rate": 0.5,
+  "maximum_relative_step": 0.05,
+  "shot_allocation": "range",
+  "tail_bias_budget": 0.0001,
+  "lower_bound": 0.0,
+  "upper_bound": 2.0,
+  "parameter_averaging": "polyak_ruppert",
+  "averaging_start": 150
+}

@@ -1,0 +1,584 @@
+{
+  "job_id": "danpjmo2fm4c73f4hrkg",
+  "backend": "ibm_pittsburgh",
+  "status": "complete",
+  "options": {
+    "default_shots": 32,
+    "max_execution_time": 10,
+    "dynamical_decoupling": {
+      "enable": false
+    },
+    "twirling": {
+      "enable_gates": false,
+      "enable_measure": false
+    },
+    "execution": {
+      "init_qubits": true,
+      "rep_delay": 0.00025,
+      "meas_type": "classified"
+    }
+  },
+  "timestamps": {
+    "created": "2026-09-20T08:31:23.242238Z",
+    "finished": "2026-09-20T08:31:47.475902Z",
+    "running": "2026-09-20T08:31:25.096516Z"
+  },
+  "usage": {
+    "quantum_seconds": 4,
+    "seconds": 4,
+    "status": "complete"
+  },
+  "software": "qiskit_ibm_runtime-0.43.1,qiskit-2.2.3*,qiskit_aer-0.17.2*",
+  "estimated_circuit_duration_seconds": [
+    1.4140000000000012e-05,
+    1.2420000000000003e-05,
+    1.5396000000000027e-05,
+    1.3596000000000008e-05,
+    1.339600000000001e-05,
+    1.3444000000000007e-05,
+    1.299600000000001e-05,
+    1.5124000000000015e-05,
+    1.6048000000000027e-05,
+    1.5276000000000025e-05,
+    1.6164000000000023e-05,
+    1.674800000000003e-05,
+    1.4420000000000014e-05,
+    1.4100000000000016e-05,
+    1.4324000000000012e-05,
+    1.4708000000000022e-05,
+    1.3612000000000011e-05,
+    1.339600000000001e-05,
+    1.3172000000000005e-05,
+    1.4260000000000011e-05,
+    1.2876000000000005e-05,
+    1.238e-05,
+    1.410000000000001e-05,
+    1.2268000000000002e-05,
+    1.5668000000000027e-05,
+    1.1787999999999998e-05,
+    1.534000000000002e-05,
+    1.3292000000000006e-05,
+    1.482800000000002e-05,
+    1.3364000000000008e-05,
+    1.2628000000000003e-05,
+    1.3236000000000007e-05,
+    1.5124000000000015e-05,
+    1.5492000000000027e-05,
+    1.6236000000000025e-05,
+    1.716400000000003e-05,
+    1.3452000000000008e-05,
+    1.4292000000000013e-05,
+    1.2044e-05,
+    1.4956000000000016e-05,
+    1.3556000000000007e-05,
+    1.449200000000002e-05,
+    1.4324000000000014e-05,
+    1.2812000000000004e-05,
+    1.3916000000000012e-05,
+    1.3268000000000004e-05,
+    1.5188000000000016e-05,
+    1.2748000000000002e-05,
+    1.579600000000002e-05,
+    1.554000000000002e-05,
+    1.3356000000000007e-05,
+    1.872400000000002e-05,
+    1.4548000000000012e-05,
+    1.5220000000000022e-05,
+    1.4684000000000014e-05,
+    1.3236000000000007e-05,
+    1.4196000000000011e-05,
+    1.3100000000000012e-05,
+    1.3864000000000025e-05,
+    1.3876000000000009e-05,
+    1.3692000000000009e-05,
+    1.5156000000000015e-05,
+    1.4420000000000013e-05,
+    1.410000000000001e-05,
+    1.5556000000000022e-05,
+    1.3292000000000006e-05,
+    1.406800000000002e-05,
+    1.3828000000000016e-05,
+    1.3364000000000008e-05,
+    1.541200000000002e-05,
+    1.2508000000000003e-05,
+    1.4012000000000011e-05,
+    1.3236000000000007e-05,
+    1.1787999999999998e-05,
+    1.5036000000000015e-05,
+    1.623600000000003e-05,
+    1.4012000000000016e-05,
+    1.4980000000000016e-05,
+    1.4532000000000013e-05,
+    1.4644000000000014e-05,
+    1.3292000000000006e-05,
+    1.5132000000000015e-05,
+    1.3572000000000008e-05,
+    1.2812000000000005e-05,
+    1.4820000000000022e-05,
+    1.3596000000000008e-05,
+    1.2276000000000002e-05,
+    1.403600000000002e-05,
+    1.4652000000000015e-05,
+    1.3804000000000014e-05,
+    1.4532000000000013e-05,
+    1.3268000000000004e-05,
+    1.406800000000002e-05,
+    1.2876000000000005e-05,
+    1.4316000000000012e-05,
+    1.2387999999999999e-05,
+    1.2940000000000007e-05,
+    1.3708000000000013e-05,
+    1.5100000000000016e-05,
+    1.3356000000000007e-05,
+    1.396400000000001e-05,
+    1.5348000000000016e-05,
+    1.4644000000000014e-05,
+    1.573200000000002e-05,
+    1.5908000000000028e-05,
+    1.4196000000000011e-05,
+    1.2652000000000002e-05,
+    1.3820000000000012e-05,
+    1.2268000000000002e-05,
+    1.304000000000002e-05,
+    1.3900000000000011e-05,
+    1.363600000000001e-05,
+    1.5836000000000023e-05,
+    1.2148e-05,
+    1.3604000000000007e-05,
+    1.569600000000003e-05,
+    1.7172000000000038e-05,
+    1.2876000000000005e-05,
+    1.2508000000000003e-05,
+    1.3188000000000008e-05,
+    1.2996000000000006e-05,
+    1.2396e-05,
+    1.598400000000003e-05,
+    1.4012000000000011e-05,
+    1.7300000000000038e-05,
+    1.2364000000000002e-05,
+    1.3708000000000013e-05,
+    1.6140000000000025e-05,
+    1.4108000000000011e-05,
+    1.2876000000000005e-05,
+    1.3708000000000013e-05,
+    1.410000000000001e-05,
+    1.2748000000000002e-05,
+    1.3052000000000006e-05,
+    1.1603999999999996e-05
+  ],
+  "result_metadata": {
+    "metadata": {
+      "execution": {
+        "execution_spans": "ExecutionSpans([DoubleSliceSpan(<start='2026-09-20 08:31:40', stop='2026-09-20 08:31:44', size=3200>), DoubleSliceSpan(<start='2026-09-20 08:31:44', stop='2026-09-20 08:31:46', size=1120>)])"
+      },
+      "version": 2
+    },
+    "pubs": [
+      {
+        "circuit_metadata": {}
+      },
+      {
+        "circuit_metadata": {}
+      },
+      {
+        "circuit_metadata": {}
+      },
+      {
+        "circuit_metadata": {}
+      },
+      {
+        "circuit_metadata": {}
+      },
+      {
+        "circuit_metadata": {}
+      },
+      {
+        "circuit_metadata": {}
+      },
+      {
+        "circuit_metadata": {}
+      },
+      {
+        "circuit_metadata": {}
+      },
+      {
+        "circuit_metadata": {}
+      },
+      {
+        "circuit_metadata": {}
+      },
+      {
+        "circuit_metadata": {}
+      },
+      {
+        "circuit_metadata": {}
+      },
+      {
+        "circuit_metadata": {}
+      },
+      {
+        "circuit_metadata": {}
+      },
+      {
+        "circuit_metadata": {}
+      },
+      {
+        "circuit_metadata": {}
+      },
+      {
+        "circuit_metadata": {}
+      },
+      {
+        "circuit_metadata": {}
+      },
+      {
+        "circuit_metadata": {}
+      },
+      {
+        "circuit_metadata": {}
+      },
+      {
+        "circuit_metadata": {}
+      },
+      {
+        "circuit_metadata": {}
+      },
+      {
+        "circuit_metadata": {}
+      },
+      {
+        "circuit_metadata": {}
+      },
+      {
+        "circuit_metadata": {}
+      },
+      {
+        "circuit_metadata": {}
+      },
+      {
+        "circuit_metadata": {}
+      },
+      {
+        "circuit_metadata": {}
+      },
+      {
+        "circuit_metadata": {}
+      },
+      {
+        "circuit_metadata": {}
+      },
+      {
+        "circuit_metadata": {}
+      },
+      {
+        "circuit_metadata": {}
+      },
+      {
+        "circuit_metadata": {}
+      },
+      {
+        "circuit_metadata": {}
+      },
+      {
+        "circuit_metadata": {}
+      },
+      {
+        "circuit_metadata": {}
+      },
+      {
+        "circuit_metadata": {}
+      },
+      {
+        "circuit_metadata": {}
+      },
+      {
+        "circuit_metadata": {}
+      },
+      {
+        "circuit_metadata": {}
+      },
+      {
+        "circuit_metadata": {}
+      },
+      {
+        "circuit_metadata": {}
+      },
+      {
+        "circuit_metadata": {}
+      },
+      {
+        "circuit_metadata": {}
+      },
+      {
+        "circuit_metadata": {}
+      },
+      {
+        "circuit_metadata": {}
+      },
+      {
+        "circuit_metadata": {}
+      },
+      {
+        "circuit_metadata": {}
+      },
+      {
+        "circuit_metadata": {}
+      },
+      {
+        "circuit_metadata": {}
+      },
+      {
+        "circuit_metadata": {}
+      },
+      {
+        "circuit_metadata": {}
+      },
+      {
+        "circuit_metadata": {}
+      },
+      {
+        "circuit_metadata": {}
+      },
+      {
+        "circuit_metadata": {}
+      },
+      {
+        "circuit_metadata": {}
+      },
+      {
+        "circuit_metadata": {}
+      },
+      {
+        "circuit_metadata": {}
+      },
+      {
+        "circuit_metadata": {}
+      },
+      {
+        "circuit_metadata": {}
+      },
+      {
+        "circuit_metadata": {}
+      },
+      {
+        "circuit_metadata": {}
+      },
+      {
+        "circuit_metadata": {}
+      },
+      {
+        "circuit_metadata": {}
+      },
+      {
+        "circuit_metadata": {}
+      },
+      {
+        "circuit_metadata": {}
+      },
+      {
+        "circuit_metadata": {}
+      },
+      {
+        "circuit_metadata": {}
+      },
+      {
+        "circuit_metadata": {}
+      },
+      {
+        "circuit_metadata": {}
+      },
+      {
+        "circuit_metadata": {}
+      },
+      {
+        "circuit_metadata": {}
+      },
+      {
+        "circuit_metadata": {}
+      },
+      {
+        "circuit_metadata": {}
+      },
+      {
+        "circuit_metadata": {}
+      },
+      {
+        "circuit_metadata": {}
+      },
+      {
+        "circuit_metadata": {}
+      },
+      {
+        "circuit_metadata": {}
+      },
+      {
+        "circuit_metadata": {}
+      },
+      {
+        "circuit_metadata": {}
+      },
+      {
+        "circuit_metadata": {}
+      },
+      {
+        "circuit_metadata": {}
+      },
+      {
+        "circuit_metadata": {}
+      },
+      {
+        "circuit_metadata": {}
+      },
+      {
+        "circuit_metadata": {}
+      },
+      {
+        "circuit_metadata": {}
+      },
+      {
+        "circuit_metadata": {}
+      },
+      {
+        "circuit_metadata": {}
+      },
+      {
+        "circuit_metadata": {}
+      },
+      {
+        "circuit_metadata": {}
+      },
+      {
+        "circuit_metadata": {}
+      },
+      {
+        "circuit_metadata": {}
+      },
+      {
+        "circuit_metadata": {}
+      },
+      {
+        "circuit_metadata": {}
+      },
+      {
+        "circuit_metadata": {}
+      },
+      {
+        "circuit_metadata": {}
+      },
+      {
+        "circuit_metadata": {}
+      },
+      {
+        "circuit_metadata": {}
+      },
+      {
+        "circuit_metadata": {}
+      },
+      {
+        "circuit_metadata": {}
+      },
+      {
+        "circuit_metadata": {}
+      },
+      {
+        "circuit_metadata": {}
+      },
+      {
+        "circuit_metadata": {}
+      },
+      {
+        "circuit_metadata": {}
+      },
+      {
+        "circuit_metadata": {}
+      },
+      {
+        "circuit_metadata": {}
+      },
+      {
+        "circuit_metadata": {}
+      },
+      {
+        "circuit_metadata": {}
+      },
+      {
+        "circuit_metadata": {}
+      },
+      {
+        "circuit_metadata": {}
+      },
+      {
+        "circuit_metadata": {}
+      },
+      {
+        "circuit_metadata": {}
+      },
+      {
+        "circuit_metadata": {}
+      },
+      {
+        "circuit_metadata": {}
+      },
+      {
+        "circuit_metadata": {}
+      },
+      {
+        "circuit_metadata": {}
+      },
+      {
+        "circuit_metadata": {}
+      },
+      {
+        "circuit_metadata": {}
+      },
+      {
+        "circuit_metadata": {}
+      },
+      {
+        "circuit_metadata": {}
+      },
+      {
+        "circuit_metadata": {}
+      },
+      {
+        "circuit_metadata": {}
+      },
+      {
+        "circuit_metadata": {}
+      },
+      {
+        "circuit_metadata": {}
+      },
+      {
+        "circuit_metadata": {}
+      },
+      {
+        "circuit_metadata": {}
+      },
+      {
+        "circuit_metadata": {}
+      },
+      {
+        "circuit_metadata": {}
+      },
+      {
+        "circuit_metadata": {}
+      },
+      {
+        "circuit_metadata": {}
+      },
+      {
+        "circuit_metadata": {}
+      },
+      {
+        "circuit_metadata": {}
+      },
+      {
+        "circuit_metadata": {}
+      },
+      {
+        "circuit_metadata": {}
+      }
+    ]
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "epochs_checked": 45,
+  "circuits_checked": 6075,
+  "native_instructions_checked": 40749431,
+  "random_instances_reproduced": 115200,
+  "local_circuits_reconstructed": 90,
+  "exact_instruction_match": true
+}

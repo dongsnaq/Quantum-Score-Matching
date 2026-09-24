@@ -1,0 +1,58 @@
+{
+  "backend": "ibm_pittsburgh",
+  "betas": [
+    0.2,
+    0.4
+  ],
+  "seeds": [
+    0,
+    1,
+    2,
+    3,
+    4
+  ],
+  "initial": [
+    0.5,
+    0.5
+  ],
+  "target": [
+    1.0,
+    1.5
+  ],
+  "epochs": 45,
+  "instances_per_group": 256,
+  "shots_per_instance": 32,
+  "blocks": 19,
+  "dt": 0.25,
+  "assignment_seed": 20260921,
+  "system_qubits": 4,
+  "parameter_order": [
+    "J",
+    "h"
+  ],
+  "frame": [
+    "X0",
+    "Z0",
+    "X1",
+    "Z1",
+    "X2",
+    "Z2",
+    "X3",
+    "Z3"
+  ],
+  "parameter_bounds": [
+    0.0,
+    2.0
+  ],
+  "gram_diagonal": [
+    24.0,
+    16.0
+  ],
+  "initial_learning_rate": 0.5,
+  "learning_rate_time_scale": 10.0,
+  "step_norm_cap_fraction": 0.05,
+  "time_tail_bias_bound": 0.0001,
+  "sampling_seed_base": 93020,
+  "transpiler_seed": 31,
+  "time_cdf_points": 32768
+}

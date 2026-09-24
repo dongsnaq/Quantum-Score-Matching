@@ -1,0 +1,11 @@
+{
+  "epochs": 45,
+  "trajectories": 10,
+  "circuits": 6075,
+  "random_instances": 115200,
+  "measured_bits": 3686400,
+  "measurements_per_trajectory": 368640,
+  "quantum_seconds": 180,
+  "max_gradient_reconstruction_error": 0.0,
+  "max_parameter_reconstruction_error": 0.0
+}
