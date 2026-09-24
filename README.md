@@ -18,3 +18,19 @@ python finite_shot/Code/make_figures.py
 python ibm/Code/analyze.py
 python ibm/Code/plot.py
 ```
+
+## License and citation
+
+Code and documentation are licensed under the [MIT License](LICENSE). Data and figures in the `Data` and `Figures` folders are licensed under [CC BY 4.0](LICENSE-DATA), subject to any separately stated third-party terms.
+
+If you use this code or data in your research, please cite:
+
+```bibtex
+@article{dong2026quantumscorematching,
+  title = {Quantum score matching with applications to learning thermal states},
+  author = {Dong, Yulong and Leng, Jiaqi},
+  journal = {arXiv preprint arXiv:2609.28391},
+  year = {2026},
+  url = {https://arxiv.org/abs/2609.28391}
+}
+```

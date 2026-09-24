@@ -1,0 +1,16 @@
+Creative Commons Attribution 4.0 International (CC BY 4.0)
+
+Copyright (c) 2026 Yulong Dong and Jiaqi Leng
+
+The data and figures in finite_shot/Data, finite_shot/Figures, ibm/Data,
+and ibm/Figures are licensed under the Creative Commons Attribution 4.0
+International License, except where separately credited material carries
+its own terms.
+
+License: https://creativecommons.org/licenses/by/4.0/
+Full legal text: https://creativecommons.org/licenses/by/4.0/legalcode
+
+Attribution:
+Yulong Dong and Jiaqi Leng, Quantum score matching with applications to
+learning thermal states (2026), https://arxiv.org/abs/2609.28391.
+Code and data: https://github.com/dongsnaq/Quantum-Score-Matching
